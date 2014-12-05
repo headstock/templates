@@ -1,5 +1,5 @@
 require "headstock_templates/version"
+require "headstock_templates/railtie"
 
 module HeadstockTemplates
-  # Your code goes here...
 end
